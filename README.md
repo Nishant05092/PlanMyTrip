@@ -228,7 +228,7 @@ The **RAG** implementation involves the following steps:
 
 The backend is deployed on Render and can be accessed at
 
-[]().
+[https://planmytrip-backend-t10k.onrender.com]().
 
 ### Frontend
 
