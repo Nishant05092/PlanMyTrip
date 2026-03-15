@@ -15,7 +15,8 @@ class UserInDB(BaseModel):
     email: EmailStr
 
     class Config:
-        orm_mode = True
+        from_attributes = True
+        # orm_mode = True
 
 
 class Token(BaseModel):
