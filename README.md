@@ -234,6 +234,6 @@ The backend is deployed on Render and can be accessed at
 
 The frontend is deployed on Vercel and can be accessed at
 
-[]().
+[plan-my-trip-ruby.vercel.app]().
 
 Made with ❤️ by Nishant sharma
