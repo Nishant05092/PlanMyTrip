@@ -46,7 +46,7 @@ This solution is focusing on creating a web application that generates tailored 
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ED2226?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2A9D8F?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Groq API](https://img.shields.io/badge/Groq_API-262626?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
